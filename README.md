@@ -1,4 +1,6 @@
 # FriendFinder
+heroku deployment
+https://peaceful-wave-48010.herokuapp.com/
 
 A friend finder app that takes in a a survey of ten questions about a user and saves the result as a json object. It then compares the results with other already saved freinds and returns the closest match
 
